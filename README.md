@@ -29,10 +29,6 @@ https://mreshma25.github.io/Portfolio/
 - **WedLuk** – AI-Powered Matrimony Platform
 - **Network Structure Analysis in Social Systems** – Research Project
 
-## 📸 Preview
-
-<img src="assets/portfolio-preview.png" alt="Portfolio Preview" width="800"/>
-
 ## 📌 About
 
 This portfolio brings together my software engineering projects, AI applications, research, and university experiences in one place. It reflects both my technical growth and my interest in building practical, human-centered technology.
