@@ -8,7 +8,7 @@ https://mreshma25.github.io/Portfolio/
 
 ## 🚀 Built With
 
-- HTML5
+- HTML
 - CSS
 - JavaScript
 - GitHub Pages
